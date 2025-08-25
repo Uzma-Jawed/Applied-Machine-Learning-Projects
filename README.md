@@ -19,7 +19,7 @@ This repository contains my practice work for **Applied Machine Learning**, focu
 
 - https://github.com/GenEd-Tech/Applied_Machine_Learning/blob/main/16-June-Applied-ML-FeatureEncoding.ipynb
 
-**Shared by https://github.com/AQadir44** (for Practice)
+- **Shared by my Instructor: https://github.com/AQadir44** (for Practice)
 
 ## ⚙️ How to Run
 1. Clone this repo  
